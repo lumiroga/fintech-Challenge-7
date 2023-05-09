@@ -49,6 +49,8 @@ Library to convert a Jupyter notebook into a web portal.
 
 <img src="running_website.png">
 
+[PDF - Website run (via Voila)](etf_analyzer.pdf)
+
 ## Usage
 
 To run program just open the terminal (anaconda needs to be installed) and type the following
