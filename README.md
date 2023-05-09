@@ -47,7 +47,7 @@ Library to convert a Jupyter notebook into a web portal.
 
 ## Website generated via voila
 
-<img src="running_website.png" height="48" width="48">
+<img src="running_website.png">
 
 ## Usage
 
